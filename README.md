@@ -20,7 +20,5 @@ The payment success page is designed to provide users with a seamless and visual
 
 
 ### Credits
-Designed and developed by [Your Name].
+Designed and developed by Abhishek Dogra.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
